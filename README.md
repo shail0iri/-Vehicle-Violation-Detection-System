@@ -44,7 +44,7 @@ The **Vehicle Violation Detection System** is a powerful tool designed to automa
 
 ### Step 1: Clone the Repository
 \`\`\`bash
-git clone https://github.com/your-username/vehicle-violation-detection.git
+git clone https://github.com/shail0iri/vehicle-violation-detection.git
 cd vehicle-violation-detection
 \`\`\`
 
