@@ -22,7 +22,7 @@ The **Vehicle Violation Detection System** is a powerful tool designed to automa
 ## Technologies Used
 - **Backend**: Python (Flask)
 - **Computer Vision**: OpenCV, YOLO (You Only Look Once) object detection
-- **Machine Learning**: TensorFlow or Keras for training violation detection models
+- **Machine Learning**: TensorFlowfor training violation detection models
 - **License Plate Recognition**: OpenALPR or custom Optical Character Recognition (OCR) solutions
 - **Database**: MySQL or PostgreSQL for storing logs and violation data
 - **Frontend**: HTML, CSS, JavaScript (React or Angular for the user interface)
