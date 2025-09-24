@@ -1,5 +1,3 @@
-# Creating a README.md file with the provided content
-
 # Vehicle Violation Detection System
 
 ## Overview
